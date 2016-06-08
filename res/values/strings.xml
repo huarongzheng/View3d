@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- app name -->
+	<string name="app_name">View3d</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+
+	
+	<!-- 	Show STL -->
+	<string name="stl_load_progress_message">wait</string>
+	<string name="stl_load_progress_title">loading</string>
+	<string name="error_fetch_data">STL parse eror</string>
+	<string name="error_outbig"> file too large to parse！</string>
+	<string name="close_dialog">close dialog</string>
+	<string name="parent_directory">up</string>
+	<string name="choose_stl_file">select object</string>
+
+
+	
+	<!-- toggle button -->
+    <string name="toggleButtonMove">移动</string>
+    <string name="toggleButtonRotate">旋转</string>
+	
+	 <!-- preferences -->
+    <string name="app_pref">STL展示界面的配置</string>
+    <string name="red">红</string>
+    <string name="green">绿</string>
+    <string name="blue">蓝</string>
+    <string name="alpha">透明度</string>
+    <string name="objectColor">模型颜色:</string>
+    <string name="displayAxis">展示坐标和网格:</string>
+    <string name="grids">网格:</string>
+    <string name="axes">坐标:</string>
+    <string name="resetToDefault">重置默认值.</string>
+    <string name="closePreferences">保存 &amp; 关闭</string>
+    
+    
+
+</resources>
